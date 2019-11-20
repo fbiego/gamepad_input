@@ -1,0 +1,17 @@
+Gamepad Processing
+XL	Xaxis Left	3	SLIDER	X Axis	0	1.0	0.15
+YL	Yaxis Left	3	SLIDER	Y Axis	0	1.0	0.15
+RLT	Zaxis   	3	SLIDER	Z Axis	0	1.0	0.15
+XR	Xaxis Right	3	SLIDER	X Rotation	0	1.0	0.2
+YR	Yaxis Right	3	SLIDER	Y Rotation	0	1.0	0.2
+B1	Button 0	1	BUTTON	Button 0	0	0.0	0.0
+B2	Button 1	1	BUTTON	Button 1	0	0.0	0.0
+B3	Button 2	1	BUTTON	Button 2	0	0.0	0.0
+B4	Button 3	1	BUTTON	Button 3	0	0.0	0.0
+LB	Button 4	1	BUTTON	Button 4	0	0.0	0.0
+RB	Button 5	1	BUTTON	Button 5	0	0.0	0.0
+SL	Button 6	1	BUTTON	Button 6	0	0.0	0.0
+ST	Button 7	1	BUTTON	Button 7	0	0.0	0.0
+BL	Button 8	1	BUTTON	Button 8	0	0.0	0.0
+BR	Button 9	1	BUTTON	Button 9	0	0.0	0.0
+HT	Hat Switch	2	HAT_SWITCH	cooliehat: Hat Switch	0	1.0	0.0
